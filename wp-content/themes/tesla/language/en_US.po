@@ -1,0 +1,611 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tesla v1.01\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-18 08:34:07+0000\n"
+"Last-Translator: admin <a@b.cd>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:6
+#@ teslawp
+msgid "oops, 404"
+msgstr ""
+
+#: comments.php:11
+#@ teslawp
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:12
+#@ teslawp
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:13
+#@ teslawp
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:20
+#@ teslawp
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:38
+#@ teslawp
+msgid "Type your message here"
+msgstr ""
+
+#: comments.php:39
+#, php-format
+#@ teslawp
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:45
+#@ teslawp
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: comments.php:46
+#@ teslawp
+msgid "REPLY TO"
+msgstr ""
+
+#: comments.php:47
+#@ teslawp
+msgid "CANCEL REPLY"
+msgstr ""
+
+#: comments.php:48
+#: functions.php:1097
+#@ teslawp
+msgid "Reply"
+msgstr ""
+
+#: footer.php:25
+#@ teslawp
+msgid "powered by"
+msgstr ""
+
+#: footer.php:28
+#@ teslawp
+msgid "designed by"
+msgstr ""
+
+#: functions.php:387
+#@ teslawp
+msgid "Contact details"
+msgstr ""
+
+#: functions.php:396
+#@ teslawp
+msgid "Contact"
+msgstr ""
+
+#: functions.php:431
+#: functions.php:497
+#: functions.php:550
+#: functions.php:607
+#: functions.php:735
+#: functions.php:813
+#: functions.php:914
+#@ teslawp
+msgid "Title:"
+msgstr ""
+
+#: functions.php:436
+#@ teslawp
+msgid "Company:"
+msgstr ""
+
+#: functions.php:441
+#@ teslawp
+msgid "Contact details:"
+msgstr ""
+
+#: functions.php:447
+#@ teslawp
+msgid "Automatically add line breaks"
+msgstr ""
+
+#: functions.php:461
+#@ teslawp
+msgid "A list of categories"
+msgstr ""
+
+#: functions.php:469
+#: theme_config/views/portfolio_single_view.php:25
+#@ teslawp
+msgid "Categories"
+msgstr ""
+
+#: functions.php:512
+#@ teslawp
+msgid "A list of latest tweets"
+msgstr ""
+
+#: functions.php:520
+#@ teslawp
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:551
+#@ teslawp
+msgid "Flickr user id:"
+msgstr ""
+
+#: functions.php:553
+#: functions.php:610
+#: functions.php:739
+#@ teslawp
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions.php:569
+#@ teslawp
+msgid "A list of Flickr images"
+msgstr ""
+
+#: functions.php:577
+#@ teslawp
+msgid "Flickr widget"
+msgstr ""
+
+#: functions.php:608
+#@ teslawp
+msgid "Twitter user:"
+msgstr ""
+
+#: functions.php:626
+#@ teslawp
+msgid "A list of the latest posts"
+msgstr ""
+
+#: functions.php:654
+#@ teslawp
+msgid "Latest Posts"
+msgstr ""
+
+#: functions.php:754
+#@ teslawp
+msgid "A gallery of images"
+msgstr ""
+
+#: functions.php:762
+#@ teslawp
+msgid "Sidebar Gallery"
+msgstr ""
+
+#: functions.php:817
+#@ teslawp
+msgid "Number of images to show:"
+msgstr ""
+
+#: functions.php:848
+#@ teslawp
+msgid "A list of recent works"
+msgstr ""
+
+#: functions.php:856
+#@ teslawp
+msgid "Recent Works"
+msgstr ""
+
+#: functions.php:918
+#@ teslawp
+msgid "Number of works to show:"
+msgstr ""
+
+#: functions.php:963
+#, php-format
+#@ teslawp
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: functions.php:978
+#, php-format
+#@ teslawp
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: functions.php:1051
+#, php-format
+#@ tesla
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:1069
+#@ teslawp
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:1069
+#@ teslawp
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:1092
+#@ teslawp
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1098
+#@ teslawp
+msgid "Edit"
+msgstr ""
+
+#: functions.php:1133
+#@ teslawp
+msgid "Enable featured video"
+msgstr ""
+
+#: functions.php:1167
+#@ teslawp
+msgid "Disable Page Title"
+msgstr ""
+
+#: functions.php:1178
+#@ teslawp
+msgid "Disable Page Sidebar"
+msgstr ""
+
+#: functions.php:1196
+#@ teslawp
+msgid "Choose a sidebar to be displayed"
+msgstr ""
+
+#: functions.php:1202
+#@ teslawp
+msgid "default"
+msgstr ""
+
+#: functions.php:1223
+#@ teslawp
+msgid "Revome the spacing at the bottom of the page"
+msgstr ""
+
+#: index.php:4
+#@ teslawp
+msgid "Blog"
+msgstr ""
+
+#: index.php:16
+#@ teslawp
+msgid "Category"
+msgstr ""
+
+#: index.php:18
+#@ teslawp
+msgid "Tag"
+msgstr ""
+
+#: index.php:20
+#: index.php:22
+#: index.php:24
+#@ teslawp
+msgid "Archive"
+msgstr ""
+
+#: index.php:28
+#: searchform.php:2
+#: searchform.php:3
+#@ teslawp
+msgid "Search"
+msgstr ""
+
+#: index.php:50
+#@ teslawp
+msgid "featured"
+msgstr ""
+
+#: index.php:74
+#@ teslawp
+msgid "Search:"
+msgstr ""
+
+#: index.php:76
+#@ teslawp
+msgid "No Results"
+msgstr ""
+
+#: index.php:77
+#@ teslawp
+msgid "Try searching again."
+msgstr ""
+
+#: index.php:83
+#@ teslawp
+msgid "Not Found"
+msgstr ""
+
+#: index.php:108
+#: index.php:129
+#@ teslawp
+msgid "&rarr;"
+msgstr ""
+
+#: index.php:109
+#: index.php:130
+#@ teslawp
+msgid "&larr;"
+msgstr ""
+
+#: single.php:7
+#@ teslawp
+msgid "Single post"
+msgstr ""
+
+#: single.php:39
+#@ teslawp
+msgid "posted by"
+msgstr ""
+
+#: single.php:39
+#@ teslawp
+msgid "on"
+msgstr ""
+
+#: single.php:39
+#@ teslawp
+msgid "at"
+msgstr ""
+
+#: single.php:39
+#@ teslawp
+msgid "in"
+msgstr ""
+
+#: single.php:41
+#@ teslawp
+msgid "tags"
+msgstr ""
+
+#: tesla_framework/views/admin.php:18
+#@ teslawp
+msgid "Documentation"
+msgstr ""
+
+#: tesla_framework/views/admin.php:21
+#@ teslawp
+msgid "Support Tickets"
+msgstr ""
+
+#: tesla_framework/views/admin.php:24
+#@ teslawp
+msgid "Latest News"
+msgstr ""
+
+#: tesla_framework/views/admin.php:29
+#@ teslawp
+msgid "Framework "
+msgstr ""
+
+#: tesla_framework/views/admin.php:45
+#: tesla_framework/views/admin.php:68
+#: tesla_framework/views/admin.php:79
+#: tesla_framework/views/admin.php:241
+#: tesla_framework/views/admin.php:284
+#: tesla_framework/views/admin.php:351
+#, php-format
+#@ teslawp
+msgid "%s"
+msgstr ""
+
+#: tesla_framework/views/admin.php:164
+#@ teslawp
+msgid "Text Logo Preview"
+msgstr ""
+
+#: tesla_framework/views/admin.php:243
+#@ teslawp
+msgid "Upload Image"
+msgstr ""
+
+#: tesla_framework/views/admin.php:245
+#@ teslawp
+msgid "Remove Image"
+msgstr ""
+
+#: tesla_framework/views/admin.php:247
+#@ teslawp
+msgid "Preview"
+msgstr ""
+
+#: tesla_framework/views/admin.php:349
+#@ teslawp
+msgid "Save Changes"
+msgstr ""
+
+#: theme_config/admin-options.php:7
+#@ teslawp
+msgctxt "admin"
+msgid "Options successfully saved"
+msgstr ""
+
+#: theme_config/admin-options.php:10
+#@ teslawp
+msgctxt "admin"
+msgid "General Options"
+msgstr ""
+
+#: theme_config/admin-options.php:13
+#@ teslawp
+msgctxt "admin"
+msgid "Logo Customization"
+msgstr ""
+
+#: theme_config/admin-options.php:17
+#@ teslawp
+msgctxt "admin"
+msgid "Here you upload a image as logo or you can write it as text and select the logo color, size, font."
+msgstr ""
+
+#: theme_config/admin-options.php:19
+#@ teslawp
+msgctxt "admin"
+msgid "Logo As Image"
+msgstr ""
+
+#: theme_config/admin-options.php:23
+#@ teslawp
+msgctxt "admin"
+msgid "Here you can insert your link to a image logo or upload a new logo image."
+msgstr ""
+
+#: theme_config/admin-options.php:25
+#@ teslawp
+msgctxt "admin"
+msgid "Logo As Text"
+msgstr ""
+
+#: theme_config/admin-options.php:29
+#@ teslawp
+msgctxt "admin"
+msgid "Type the logo text here, then select a color, set a size and font"
+msgstr ""
+
+#: theme_config/admin-options.php:37
+#@ teslawp
+msgctxt "admin"
+msgid "Favicon"
+msgstr ""
+
+#: theme_config/admin-options.php:44
+#@ teslawp
+msgctxt "admin"
+msgid "Here you can upload the favicon icon."
+msgstr ""
+
+#: theme_config/admin-options.php:48
+#@ teslawp
+msgctxt "admin"
+msgid "Custom CSS"
+msgstr ""
+
+#: theme_config/admin-options.php:51
+#@ teslawp
+msgctxt "admin"
+msgid "Here you can write your personal CSS for customizing the classes you choose to modify."
+msgstr ""
+
+#: theme_config/admin-options.php:59
+#@ teslawp
+msgctxt "admin"
+msgid "Site Color"
+msgstr ""
+
+#: theme_config/admin-options.php:67
+#@ teslawp
+msgctxt "admin"
+msgid "Change the default color of the site."
+msgstr ""
+
+#: theme_config/admin-options.php:74
+#@ teslawp
+msgctxt "admin"
+msgid "SEO and Socials"
+msgstr "aloo"
+
+#: theme_config/admin-options.php:77
+#@ teslawp
+msgctxt "admin"
+msgid "Social Platforms"
+msgstr ""
+
+#: theme_config/admin-options.php:79
+#@ teslawp
+msgctxt "admin"
+msgid "Insert the link to the social share page."
+msgstr ""
+
+#: theme_config/admin-options.php:91
+#@ teslawp
+msgctxt "admin"
+msgid "Tracking Code"
+msgstr ""
+
+#: theme_config/admin-options.php:104
+#@ teslawp
+msgctxt "admin"
+msgid "Additional Options"
+msgstr ""
+
+#: theme_config/admin-options.php:107
+#@ teslawp
+msgctxt "admin"
+msgid "Additional options"
+msgstr ""
+
+#: theme_config/admin-options.php:112
+#@ teslawp
+msgctxt "admin"
+msgid "Blog Page Title"
+msgstr ""
+
+#: theme_config/admin-options.php:115
+#@ teslawp
+msgctxt "admin"
+msgid "Give another title for the blog page"
+msgstr ""
+
+#: theme_config/admin-options.php:117
+#@ teslawp
+msgctxt "admin"
+msgid "Ex: News, Updates, Events etc."
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:21
+#@ teslawp
+msgid "Project Details"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:38
+#@ teslawp
+msgid "Skills"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:46
+#@ teslawp
+msgid "Project url"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:49
+#@ teslawp
+msgid "Project link"
+msgstr ""
+
+#: theme_config/views/portfolio_single_view.php:58
+#@ teslawp
+msgid "related projects"
+msgstr ""
+
+#: theme_config/views/portfolio_view.php:4
+#@ teslawp
+msgid "Featured Work:"
+msgstr ""
+
+#: theme_config/views/portfolio_view.php:9
+#@ teslawp
+msgid "all"
+msgstr ""
+
+#: theme_config/views/portfolio_view.php:48
+#@ teslawp
+msgid "read more"
+msgstr ""
+

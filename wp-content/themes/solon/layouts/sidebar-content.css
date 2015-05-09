@@ -1,0 +1,16 @@
+/*
+Theme Name: Solon
+Layout: Sidebar-Content
+*/
+
+.content-area {
+	float: right;
+}
+.widget-area {
+	float: left;
+}
+@media only screen and (max-width: 1199px) {
+	.content-area {
+		float: right;
+	}
+}

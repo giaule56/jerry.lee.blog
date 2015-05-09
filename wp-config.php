@@ -16,16 +16,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'demo');
+define('DB_NAME', 'jerry.blog');
 
 /** MySQL database username */
-define('DB_USER', 'giaule');
+define('DB_USER', 'jerry');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'giaule');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '127.0.0.1:3307');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
@@ -59,7 +59,7 @@ define('NONCE_SALT',       '&`s+G&;IS[dgs6pmS?9!7)5yQj{hY[5:QHU)<#c0K+yLWcCg8&^n
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'jb_';
 
 /**
  * For developers: WordPress debugging mode.
@@ -74,7 +74,7 @@ define('WP_DEBUG', false);
 
 /** Absolute path to the WordPress directory. */
 if ( !defined('ABSPATH') )
-	define('ABSPATH', dirname(__FILE__) . '/');
+    define('ABSPATH', dirname(__FILE__) . '/');
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
