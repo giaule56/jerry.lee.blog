@@ -1,0 +1,1067 @@
+# Copyright (C) 2015 mudThemes
+# This file is distributed under the GNU General Public License, v2 (or newer).
+msgid ""
+msgstr ""
+"Project-Id-Version: Profound 1.0.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/profound\n"
+"POT-Creation-Date: 2015-04-08 07:12:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: archive.php:18
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:20
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:20
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:22
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:22
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:24
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:28
+msgid "<p>Archive of posts published in the specified %s </p>"
+msgstr ""
+
+#: author.php:17
+msgid "Author Archives"
+msgstr ""
+
+#: author.php:24
+msgid "Archive of the posts written by author : %s."
+msgstr ""
+
+#: category.php:17
+msgid "Category Archives"
+msgstr ""
+
+#: category.php:25 tag.php:25
+msgid "Archive of posts published in the category: %s"
+msgstr ""
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments"
+msgstr ""
+
+#: comments.php:21
+msgid "Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:33
+msgid "Older Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:34
+msgid "<span class=\"meta-nav\">&larr;</span> Newer Comments"
+msgstr ""
+
+#: comments.php:41
+msgid "Sorry, Comments are closed."
+msgstr ""
+
+#: content-blog.php:15
+msgid "Our Daily News"
+msgstr ""
+
+#: content-blog.php:16
+msgid ""
+"Putting special characters in the title should have no adverse effect on the "
+"layout or functionality."
+msgstr ""
+
+#: footer.php:15
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:15
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:15
+msgid "Profound theme by"
+msgstr ""
+
+#: functions.php:71
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:134 functions.php:136
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:145 functions.php:147
+msgid "Footerbox Sidebar #1"
+msgstr ""
+
+#: functions.php:156 functions.php:158
+msgid "Footerbox Sidebar #2"
+msgstr ""
+
+#: functions.php:167 functions.php:169
+msgid "Footerbox Sidebar #3"
+msgstr ""
+
+#: functions.php:278
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:504
+msgid "Ooops! Nothing Found"
+msgstr ""
+
+#: functions.php:506 functions.php:508
+msgid "Nothing found for: %s"
+msgstr ""
+
+#: functions.php:515
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: functions.php:532
+msgid "Day"
+msgstr ""
+
+#: functions.php:534
+msgid "Month"
+msgstr ""
+
+#: functions.php:536
+msgid "Year"
+msgstr ""
+
+#: functions.php:538
+msgid "Period"
+msgstr ""
+
+#: functions.php:561
+msgid "<span class=\"meta-nav\">&larr;</span> Newer posts"
+msgstr ""
+
+#: functions.php:562
+msgid "Older posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:578
+msgctxt "Previous post link"
+msgid "&rarr;"
+msgstr ""
+
+#: functions.php:579
+msgctxt "Next post link"
+msgid "&larr;"
+msgstr ""
+
+#: functions.php:667
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:686
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:688 functions.php:702
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:702
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:720
+msgid "Blog"
+msgstr ""
+
+#: header.php:45
+msgid "Menu"
+msgstr ""
+
+#: home.php:17
+msgid "Our Blog"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:17
+msgid "Hi there!  I'm just a little extension, don't mind me."
+msgstr ""
+
+#: includes/options-framework/options-framework.php:164
+msgid "Profound Theme - Settings"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:164
+#: includes/options-framework/options-framework.php:369
+msgid "Theme Options"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:271
+msgid "<i class=\"mdf mdf-undo\"></i> Options reset"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:318
+msgid "<i class=\"mdf mdf-check\"></i> Options saved"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:420
+msgid "Documentation"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:421
+msgid "Support"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:422
+msgid "Contact us"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:426 loop.php:32
+msgid "by"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:426
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:431
+msgid "Upgrade to Profound Premium."
+msgstr ""
+
+#: includes/options-framework/options-framework.php:431
+msgid ""
+"and get Colorful skins with 500+ Google Fonts, Full-width Layout, Multiple "
+"slides and much more."
+msgstr ""
+
+#: includes/options-framework/options-framework.php:432
+msgid "Download Profound Premium"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:454
+msgid "Scroll Down"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:461
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:466
+msgid "Save Options"
+msgstr ""
+
+#: includes/options-framework/options-framework.php:467
+msgid "Restore Defaults"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:431
+msgid "Menu Styler is only available in Profound Premium Version"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:431
+msgid "Upgrade now"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:431
+msgid "to get more menu styling options"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:437
+msgid "Get access to 500+ Google Fonts"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:437
+#: includes/options-framework/options-interface.php:449
+#: includes/options-framework/options-interface.php:455
+msgid "Upgrade Now"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:437
+#: includes/options-framework/options-interface.php:449
+#: includes/options-framework/options-interface.php:455
+msgid "to Profound Premium version"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:443
+msgid "Now get more Coloring ability with"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:443
+msgid "Profound Premium version"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:449
+msgid "Use upto 10 different slides in a slideshow"
+msgstr ""
+
+#: includes/options-framework/options-interface.php:455
+msgid "For more Social Profiles"
+msgstr ""
+
+#: includes/options-framework/options-medialibrary-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: includes/options-framework/options-medialibrary-uploader.php:66
+#: includes/options-framework/options-medialibrary-uploader.php:120
+msgid "Upload"
+msgstr ""
+
+#: includes/options-framework/options-medialibrary-uploader.php:68
+#: includes/options-framework/options-medialibrary-uploader.php:81
+#: includes/options-framework/options-medialibrary-uploader.php:121
+msgid "Remove"
+msgstr ""
+
+#: includes/options-framework/options-medialibrary-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: includes/options-framework/options-medialibrary-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:246
+msgid "repeat"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:247
+msgid "No Repeat"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:248
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:249
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:250
+msgid "Repeat All"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:263
+msgid "top left"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:264
+msgid "Top Left"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:265
+msgid "Top Center"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:266
+msgid "Top Right"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:267
+msgid "Middle Left"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:268
+msgid "Middle Center"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:269
+msgid "Middle Right"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:270
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:271
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:272
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:285
+msgid "fixed"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:286
+msgid "Scroll Normally"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:287
+msgid "Fixed in Place"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:361
+msgid "Normal"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:362
+msgid "Italic"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:363
+msgid "Bold"
+msgstr ""
+
+#: includes/options-framework/options-sanitize.php:364
+msgid "Bold Italic"
+msgstr ""
+
+#: loop.php:27
+msgid "Permalink to"
+msgstr ""
+
+#: loop.php:31
+msgid "Written on"
+msgstr ""
+
+#: loop.php:35
+msgid "No comments yet"
+msgstr ""
+
+#: loop.php:35
+msgid "1 comment"
+msgstr ""
+
+#: loop.php:35
+msgid "comments"
+msgstr ""
+
+#: loop.php:35
+msgid "No Comments"
+msgstr ""
+
+#: loop.php:51 page.php:25 single.php:41
+msgid "Pages:"
+msgstr ""
+
+#: options.php:50
+msgid "Basic Settings"
+msgstr ""
+
+#: options.php:54
+msgid "Select Skin"
+msgstr ""
+
+#: options.php:55
+msgid ""
+"Select skin for your theme. (Note: Premium skins are only available with "
+"Pround Premium Version)"
+msgstr ""
+
+#: options.php:60
+msgid "Classic White"
+msgstr ""
+
+#: options.php:64
+msgid "Layout Mode"
+msgstr ""
+
+#: options.php:65
+msgid ""
+"Select the layout type for your theme. Full width layout works only with "
+"Premium Version."
+msgstr ""
+
+#: options.php:70 options.php:71
+msgid "Boxed Mode"
+msgstr ""
+
+#: options.php:75
+msgid "Logo Image:"
+msgstr ""
+
+#: options.php:76
+msgid "Here you can upload the logo of your site."
+msgstr ""
+
+#: options.php:82
+msgid "Favicon Image:"
+msgstr ""
+
+#: options.php:83
+msgid ""
+"Favicon Image of your site. See reference %1$sWhat is a Favicon?%2$s & %3"
+"$sWhere are Favicons displayed?%2$s"
+msgstr ""
+
+#: options.php:89
+msgid "Organization Name:"
+msgstr ""
+
+#: options.php:90
+msgid "This will be shown in the Theme's footer."
+msgstr ""
+
+#: options.php:96
+msgid "Show Copyright:"
+msgstr ""
+
+#: options.php:97
+msgid "Check this to show the Copyright information in the Theme's footer"
+msgstr ""
+
+#: options.php:105
+msgid "Theme Layout"
+msgstr ""
+
+#: options.php:121
+msgid "Hide Footer:"
+msgstr ""
+
+#: options.php:122
+msgid "Checking this will hide Theme's Footer."
+msgstr ""
+
+#: options.php:128
+msgid "Hide Menu:"
+msgstr ""
+
+#: options.php:129
+msgid "Checking this will hide Primary Menu."
+msgstr ""
+
+#: options.php:135
+msgid "Hide Blog Heading:<br />(Homepage)"
+msgstr ""
+
+#: options.php:136
+msgid "This will hide the blog heading on the homepage of your site."
+msgstr ""
+
+#: options.php:150
+msgid "Hide Thumbnail:<br />(Blog)"
+msgstr ""
+
+#: options.php:151
+msgid "Checking this will hide post thumbnail from the blog page."
+msgstr ""
+
+#: options.php:164
+msgid "Hide Post meta:<br />(Blog)"
+msgstr ""
+
+#: options.php:165
+msgid ""
+"Checking this will hide post meta information from the blog. Post meta is "
+"the information about a post, visible below the title."
+msgstr ""
+
+#: options.php:171
+msgid "Hide Post meta comments:<br />(Blog):"
+msgstr ""
+
+#: options.php:172
+msgid ""
+"Checking this will hide comments information from the post meta on blog page."
+msgstr ""
+
+#: options.php:185
+msgid "Hide Bottom Navigation:<br />(Blog)"
+msgstr ""
+
+#: options.php:186
+msgid ""
+"Checking this will hide navigation links provided below all posts on the "
+"blog page."
+msgstr ""
+
+#: options.php:199
+msgid "Hide Meta:<br />(Single Post)"
+msgstr ""
+
+#: options.php:200
+msgid "Checking this will hide post meta information from single posts."
+msgstr ""
+
+#: options.php:231
+msgid "Header Settings"
+msgstr ""
+
+#: options.php:235
+msgid "Hide Header:"
+msgstr ""
+
+#: options.php:236
+msgid "Checking this will hide Theme's Header."
+msgstr ""
+
+#: options.php:242
+msgid "Hide Site Description:"
+msgstr ""
+
+#: options.php:243
+msgid "Checking this will hide site description from the header."
+msgstr ""
+
+#: options.php:249
+msgid "Site Title Font:"
+msgstr ""
+
+#: options.php:250
+msgid "This font applies to the site title text."
+msgstr ""
+
+#: options.php:258
+msgid "Site Description Font:"
+msgstr ""
+
+#: options.php:259
+msgid "This font applies to the site description text."
+msgstr ""
+
+#: options.php:267
+msgid "Site Title Color:"
+msgstr ""
+
+#: options.php:268
+msgid "Changes the color of the site title."
+msgstr ""
+
+#: options.php:274
+msgid "Site Description Color:"
+msgstr ""
+
+#: options.php:275
+msgid "Changes the color of site description."
+msgstr ""
+
+#: options.php:281
+msgid "Site Title Size:"
+msgstr ""
+
+#: options.php:282
+msgid "Change the font size of site title."
+msgstr ""
+
+#: options.php:289
+msgid "Site Description Size:"
+msgstr ""
+
+#: options.php:290
+msgid "Chane the font size of site description."
+msgstr ""
+
+#: options.php:302
+msgid "Font Settings"
+msgstr ""
+
+#: options.php:306
+msgid "Body Font:"
+msgstr ""
+
+#: options.php:307
+msgid ""
+"This is the primary font of the theme. It changes the font style of text "
+"which is not specified in Theme Options. (means: if any text has no font "
+"associated with it, then this will come into play.)"
+msgstr ""
+
+#: options.php:315
+msgid "Featured Section Font:"
+msgstr ""
+
+#: options.php:316
+msgid ""
+"This font applies to the text overlay in the Featured section (means: the "
+"text that appear on the top of slideshow)."
+msgstr ""
+
+#: options.php:324
+msgid "Menu Font:"
+msgstr ""
+
+#: options.php:325
+msgid "This font applies to the Primary menu."
+msgstr ""
+
+#: options.php:333
+msgid "Post Title Font:<br />(Blog)"
+msgstr ""
+
+#: options.php:334
+msgid "This font applies to the Post title only on blog page."
+msgstr ""
+
+#: options.php:342
+msgid "Post Meta Font:<br />(Blog)"
+msgstr ""
+
+#: options.php:343
+msgid ""
+"This font applies to the Post meta only on blog page. (means: information "
+"about date/comments/author etc.)"
+msgstr ""
+
+#: options.php:351
+msgid "Post Content Font:<br />(Blog)"
+msgstr ""
+
+#: options.php:352
+msgid "This font applies to the Post content only on blog page."
+msgstr ""
+
+#: options.php:378
+msgid "Post Title Font:<br />(Post/Page)"
+msgstr ""
+
+#: options.php:379
+msgid "This font applies to the Post title only on post/page."
+msgstr ""
+
+#: options.php:387
+msgid "Post Meta Font:<br />(Single Post)"
+msgstr ""
+
+#: options.php:388
+msgid ""
+"This font applies to the Post meta only on single posts. (means: information "
+"about date/comments/author etc.)"
+msgstr ""
+
+#: options.php:396
+msgid "Post Content Font:<br />(Post/Page)"
+msgstr ""
+
+#: options.php:397
+msgid "This font applies to the Post content only on post/page."
+msgstr ""
+
+#: options.php:423
+msgid "Widget Title Font:<br />(Footerbox)"
+msgstr ""
+
+#: options.php:424
+msgid "This font applies to widget title of the footerbox."
+msgstr ""
+
+#: options.php:432
+msgid "Widget Body Font:<br />(Footerbox)"
+msgstr ""
+
+#: options.php:433
+msgid "This font applies to widget body of the footerbox."
+msgstr ""
+
+#: options.php:441
+msgid "Footer Font:"
+msgstr ""
+
+#: options.php:442
+msgid "This font applies to footer of the site."
+msgstr ""
+
+#: options.php:458
+msgid "Color Options"
+msgstr ""
+
+#: options.php:462
+msgid "Post Title Color:<br />(blog)"
+msgstr ""
+
+#: options.php:463
+msgid "Changes the post title color only on blog page."
+msgstr ""
+
+#: options.php:469
+msgid "Post Meta Color:<br />(blog)"
+msgstr ""
+
+#: options.php:470
+msgid ""
+"Changes the post meta color only on blog page. (means: information about "
+"date/comments/author etc.)"
+msgstr ""
+
+#: options.php:476
+msgid "Post Content Color:<br />(blog)"
+msgstr ""
+
+#: options.php:477
+msgid "Changes the post content color only on blog page."
+msgstr ""
+
+#: options.php:483
+msgid "Date Background Color:<br />(blog)"
+msgstr ""
+
+#: options.php:484
+msgid "Changes the background color of stylish date only on blog page."
+msgstr ""
+
+#: options.php:504
+msgid "Post Title Color:<br />(post/page)"
+msgstr ""
+
+#: options.php:505
+msgid "Changes the post title color on posts/page."
+msgstr ""
+
+#: options.php:511
+msgid "Post Meta Color:<br />(posts)"
+msgstr ""
+
+#: options.php:512
+msgid "Changes the post meta color on single posts."
+msgstr ""
+
+#: options.php:518
+msgid "Post Content Color:<br />(page/posts)"
+msgstr ""
+
+#: options.php:519
+msgid ""
+"Changes the post content color on single posts.(means: color for &#60;p&#62; "
+"tag.)"
+msgstr ""
+
+#: options.php:525
+msgid "Link Color:<br />(post/page)"
+msgstr ""
+
+#: options.php:526
+msgid ""
+"Changes the unvisited link color on posts/page.(means: color for &#60;a&#62; "
+"tag.)"
+msgstr ""
+
+#: options.php:532
+msgid "Link Visited Color:<br />(post/page)"
+msgstr ""
+
+#: options.php:533
+msgid ""
+"Changes the visited link color on posts/page.(means: color for visited "
+"links.)"
+msgstr ""
+
+#: options.php:539
+msgid "Link Hover Color:<br />(post/page)"
+msgstr ""
+
+#: options.php:540
+msgid ""
+"Changes the link hover color on posts/page. (means: when mouse hovers over a "
+"link.)"
+msgstr ""
+
+#: options.php:555
+msgid "Featured Section"
+msgstr ""
+
+#: options.php:559
+msgid "Hide Featured Section:"
+msgstr ""
+
+#: options.php:560
+msgid "Checking this will hide Featured Section."
+msgstr ""
+
+#: options.php:566
+msgid "Slideshow Image #1:"
+msgstr ""
+
+#: options.php:573
+msgid "Slideshow Heading #1:"
+msgstr ""
+
+#: options.php:574
+msgid "The heading for slide #1"
+msgstr ""
+
+#: options.php:580
+msgid "Slideshow Image #2:"
+msgstr ""
+
+#: options.php:587
+msgid "Slideshow Heading #2:"
+msgstr ""
+
+#: options.php:588
+msgid "The heading for slide #2"
+msgstr ""
+
+#: options.php:594
+msgid "Slideshow Speed"
+msgstr ""
+
+#: options.php:595
+msgid "Speed of slideshow"
+msgstr ""
+
+#: options.php:602
+msgid "Slideshow Animation Speed"
+msgstr ""
+
+#: options.php:603
+msgid "Speed of slideshow animation"
+msgstr ""
+
+#: options.php:610
+msgid "Hide Navigation:"
+msgstr ""
+
+#: options.php:611
+msgid "Hide left and right navigation"
+msgstr ""
+
+#: options.php:617
+msgid "Smooth Height:"
+msgstr ""
+
+#: options.php:618
+msgid "Disable Smooth Height."
+msgstr ""
+
+#: options.php:624
+msgid "Animation Type"
+msgstr ""
+
+#: options.php:625
+msgid "Slideshow animation type."
+msgstr ""
+
+#: options.php:632
+msgid "Slideshow Direction"
+msgstr ""
+
+#: options.php:633
+msgid "Slideshow Direction."
+msgstr ""
+
+#: options.php:647
+msgid "Social Options"
+msgstr ""
+
+#: options.php:651
+msgid "Hide Social Section:"
+msgstr ""
+
+#: options.php:652
+msgid "Checking this will hide Social Section."
+msgstr ""
+
+#: options.php:658
+msgid "Facebook Profile:"
+msgstr ""
+
+#: options.php:659 options.php:666 options.php:673
+msgid "Include http:// or https:// with the URL."
+msgstr ""
+
+#: options.php:665
+msgid "Twitter Profile:"
+msgstr ""
+
+#: options.php:672
+msgid "RSS Feed:"
+msgstr ""
+
+#: options.php:686
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:694
+msgid "Custom CSS Styles:"
+msgstr ""
+
+#: options.php:695
+msgid ""
+"<strong>Important:</strong> Use this section only if you are well versed "
+"with CSS styling. Any bad input here can ruin the entire look of your theme. "
+"You can put your custom CSS styles here. It is recommended that you use this "
+"section rather than editing <i>style.css</i> directly."
+msgstr ""
+
+#: page.php:29 single.php:45
+msgid "Edit"
+msgstr ""
+
+#: search.php:17
+msgid "Search Results"
+msgstr ""
+
+#: search.php:20
+msgid "We have found following content based on your search query: %s."
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Go"
+msgstr ""
+
+#: sidebar.php:14
+msgid "Recent Posts"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Search"
+msgstr ""
+
+#: single.php:27
+msgid ""
+"<span class=\"meta-date-url\">Posted on</span> %1$s<span class=\"meta-author-"
+"url\">, By %2$s </span>"
+msgstr ""
+
+#: single.php:33
+msgid "View all posts by %s"
+msgstr ""
+
+#: single.php:46
+msgid "Tags: "
+msgstr ""
+
+#: tag.php:17
+msgid "Tag Archives"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Profound"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.mudthemes.com/profound"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Profound is a clean, beautiful and responsive theme useful for personal "
+"blogging, corporate or magazine blogs. Profound has a single menu with 4 "
+"sidebars which consist of a beautiful Footer box and a slideshow section "
+"with text overlay. Profound is fully Translation ready and comes with 100% "
+"GPL license and online documentation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mudThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.mudthemes.com"
+msgstr ""

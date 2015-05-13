@@ -1,0 +1,3 @@
+You can translate this theme in your own language by using FREE poedit tool...
+
+Tutorial: http://www.mudthemes.com/support/docs/theme-translation
