@@ -12,7 +12,7 @@
             <div class="footer-bg-section grid-col-16 clearfix">
                 <div id="footer-section" class="footer-section grid-col-16">
                     <?php if($profound_options['show_copyright']): ?>
-                        <div id="copyright" class="copyright"><?php _e( 'Copyright', 'profound' ) ?> <?php echo date( 'Y' ) ?> <?php if( $profound_options['footer_name'] ) { echo esc_html( $profound_options['footer_name'] ); } ?> | <?php _e( 'Powered by', 'profound' ) ?> <a href="http://www.wordpress.org">WordPress</a> | <?php _e( 'Profound theme by', 'profound' ) ?> <a href="http://www.mudthemes.com/" target="_blank">mudThemes</a></div>
+                        <div id="copyright" class="copyright"><?php _e( 'Copyright', 'profound' ) ?> <?php echo date( 'Y' ) ?> <?php if( $profound_options['footer_name'] ) { echo esc_html( $profound_options['footer_name'] ); } ?> | <?php _e( 'Powered by', 'profound' ) ?> <a href="http://www.wordpress.org">Jerry Lee</a> | ltgiau91@gmail.com</div>
                     <?php endif ?>
                         <?php  profound_social_section_show() ?>
                 </div>
