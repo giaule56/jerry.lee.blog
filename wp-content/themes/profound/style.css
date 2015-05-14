@@ -2622,3 +2622,24 @@ body #scrollUp:hover {
 #footer-section{
   text-align: center;
 }
+.site-title{
+    /*background: url(assets/global/images/jerry-logo.png) no-repeat 0 0;*/
+    width: 100%;
+    /*height: 10%;*/
+}
+.grid-pct-65 {
+  width: 70%;
+}
+.grid-pct-35{
+  width: 30%;
+}
+.widget-title{
+    border-radius: 8px;
+    /*border-top-right-radius: 8px;*/
+}
+
+#media-social{
+    float: right;
+    width: 50%;
+    height: 100px;
+}

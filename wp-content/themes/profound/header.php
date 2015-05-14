@@ -37,6 +37,7 @@
                 <div id="header-section" class="header-section grid-col-16 clearfix">
                     <div id="logo-section" class="logo-section grid-col-7 grid-float-left clearfix"><?php profound_logo() ?></div>
                     <?php // profound_social_section_show() ?>
+                    <div id="media-social"></div>
                 </div><!-- header section ends -->
                 
             </div><!-- header bg section ends -->
