@@ -437,7 +437,7 @@ function mudthemes_options_panel_options() {
             'name' => __('Slideshow Heading #1:', 'profound'),
             'desc' => __('The heading for slide #1', 'profound'),
             'id' => 'featured_slide_head_1',
-            'std' => 'Enjoy your life',
+            'std' => 'Life is not about finding yourself. Life is about creating yourself.',
             'type' => 'textarea');
 
         $options[] = array(

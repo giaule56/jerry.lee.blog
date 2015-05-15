@@ -37,7 +37,17 @@
                 <div id="header-section" class="header-section grid-col-16 clearfix">
                     <div id="logo-section" class="logo-section grid-col-7 grid-float-left clearfix"><?php profound_logo() ?></div>
                     <?php // profound_social_section_show() ?>
-                    <div id="media-social"></div>
+                    <div id="media-social">
+                        <div id="top-social-icons">
+                          <a target="_blank" href="http://www.facebook.com/pages/June-Lily-Studio/129361103773045" class="facebook"></a>
+                          <a target="_blank" href="http://twitter.com/#!/junelilystudio" class="twitter"></a>
+                          <a target="_blank" href="https://plus.google.com/+Junelilystudio/" rel="publisher" class="google-plus"></a> 
+                      </div>
+                      <div id="login-out">
+                        <a href="#" rel="publisher" class="user-mana">Login</a> 
+                        <a href="#" rel="publisher" class="user-mana">Register</a> 
+                      </div>
+                    </div>
                 </div><!-- header section ends -->
                 
             </div><!-- header bg section ends -->
