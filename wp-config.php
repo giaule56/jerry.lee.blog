@@ -22,10 +22,10 @@ define('DB_NAME', 'jerry.blog');
 define('DB_USER', 'ruby');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'qZSjrHBBdxRX7DNx');
+define('DB_PASSWORD', 'tGUU7wDsjtVpWvc4');
 
 /** MySQL hostname */
-define('DB_HOST', '127.0.0.1:3306');
+define('DB_HOST', '127.0.0.1:3307');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
