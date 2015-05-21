@@ -16,10 +16,8 @@ global $profound_options;
                     <div class="post-title">
                     <?php if ( is_front_page() ): ?>
                         <h1 class="front-page"><?php the_title() ?></h1>
-                         <div class="under-line"></div>
                     <?php else: ?>
-                        <h1 class="inner-page"><?php the_title() ?></h1>
-                         <div class="under-line"></div>
+                        <h1 class="inner-page" style="color: rgb(0, 161, 226) !important;"><?php the_title() ?></h1>
                     <?php endif ?>
                     </div>
 

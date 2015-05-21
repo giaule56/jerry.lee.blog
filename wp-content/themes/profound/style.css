@@ -2701,6 +2701,31 @@ a.user-mana:hover {
     color: #ec6a00;
     font-weight: bold;
 }
+
+.title-page{
+  border-bottom: 2px solid;
+  border-bottom-color: #ec6a00;
+  font-size: 20px;
+color: #E4AB7E;
+}
+.custom-content{
+  padding: 15px;
+}
+
+.type-post .inner-page{
+  font-size: 27px !important;
+}
+
+.comments-section {
+  margin: 30px auto 0;
+}
+
+@media only screen and (max-width: 650px) {
+  .custom-page.loop-container-section {
+      width: 100% !important;
+  }
+}
+
 @media only screen and (max-width: 350px) {
   #media-social {
       width: 100%;
