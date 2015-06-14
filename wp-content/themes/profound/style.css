@@ -2712,22 +2712,39 @@ color: #E4AB7E;
   padding: 15px;
 }
 
-.type-post .inner-page{
-  font-size: 27px !important;
-}
-
-.comments-section {
-  margin: 30px auto 0;
-}
-
-@media only screen and (max-width: 650px) {
-  .custom-page.loop-container-section {
-      width: 100% !important;
-  }
-}
-
 @media only screen and (max-width: 350px) {
   #media-social {
       width: 100%;
   }
+}
+
+.type-post .post-title .inner-page{
+  font-size: 27px;
+}
+
+.nav-previous a, .nav-next a{
+  color: #fff !important;
+  background-color: #FFB93D !important;
+}
+#main-section{
+  min-height: 350px;
+}
+@media only screen and (max-width: 650px) {
+  .custom-content {
+      width: 100%;
+  }
+  .loop-container-section.custom-category{
+    width: 100%;
+  }
+}
+
+/* post style */
+.form-grammar {
+  border: 1px solid;
+  border-radius: 10px;
+  border-color: rgb(77, 144, 200);
+  padding: 15px;
+  line-height: 2;
+  margin-bottom: 10px;
+  color: rgb(236, 32, 6);
 }

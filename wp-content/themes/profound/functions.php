@@ -598,7 +598,7 @@ function profound_logo() {
         if( empty($profound_options['logo_img'] )): ?>
         
             <div id="site-title" class="site-title">
-                <img src="http://127.0.0.1/jerry.lee.blog/wp-content/themes/profound/assets/global/images/jerry-logo.png">
+                <img src="http://jerry-rosabella.rhcloud.com/wp-content/themes/profound/assets/global/images/jerry-logo.png">
             </div>
             <?php if(!$profound_options['disable_site_desc']): ?>
                 <div id="site-description" class="site-description"><?php echo esc_html( get_bloginfo( 'description' ) ) ?></div>

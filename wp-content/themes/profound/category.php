@@ -12,7 +12,7 @@
 
               <?php if( have_posts() ) : ?>
 
-                    <div class="archive-meta-container">
+                   <!--  <div class="archive-meta-container">
                          <div class="archive-head">
                               <h1><?php _e( 'Category Archives', 'profound' ) ?></h1>
                          </div>
@@ -27,9 +27,9 @@
                               ?>
                          </div>
 
-                    </div><!-- Archive Meta Container ends -->
+                    </div> --><!-- Archive Meta Container ends -->
 
-                    <div class="loop-container-section grid-pct-65 grid-float-left clearfix">
+                    <div class="loop-container-section grid-pct-65 grid-float-left clearfix custom-category">
 
                         <?php
                             // Here starts the loop

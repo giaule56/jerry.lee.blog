@@ -7,16 +7,16 @@
         
             <?php if( have_posts() ) : ?>
 
-                    <div class="custom-page loop-container-section grid-pct-65 grid-float-left clearfix custom-content">
+                    <div class="loop-container-section grid-pct-65 grid-float-left clearfix custom-content">
                     
                         <?php
                         // Here starts the loop
-                        query_posts('cat=3');
+                        query_posts('cat=4');
                         while (have_posts()) : the_post();
                         ?> 
                             <!-- <div class="title-page"><?php the_title() ?></div> -->
                         <?php
-                            get_template_part( 'loop', 'home' );
+                           get_template_part('loop', 'archive');
                         endwhile;
                         ?>
                         
