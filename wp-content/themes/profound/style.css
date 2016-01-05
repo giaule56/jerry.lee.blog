@@ -2748,3 +2748,7 @@ color: #E4AB7E;
   margin-bottom: 10px;
   color: rgb(236, 32, 6);
 }
+
+body{
+	background-color: red;
+}
